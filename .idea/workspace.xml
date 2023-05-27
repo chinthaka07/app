@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="370c9362-0770-4801-ae97-f46779625a35" name="Changes" comment="responsive">
+    <list default="true" id="370c9362-0770-4801-ae97-f46779625a35" name="Changes" comment="responsive for mobile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685112575276</updated>
-      <workItem from="1685112576973" duration="9695000" />
+      <workItem from="1685112576973" duration="12373000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap_1">
       <created>1685116216041</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685120391313</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="responsive for mobile">
+      <created>1685173752974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685173752974</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +92,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="bootstrap_1" />
     <MESSAGE value="responsive" />
-    <option name="LAST_COMMIT_MESSAGE" value="responsive" />
+    <MESSAGE value="responsive for mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="responsive for mobile" />
   </component>
 </project>
